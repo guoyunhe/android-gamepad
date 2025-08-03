@@ -20,6 +20,9 @@ importers:
       '@guoyunhe/react-auth':
         specifier: 3.0.0-4
         version: 3.0.0-4(react@19.1.1)(wouter@3.7.1(react@19.1.1))(xior@0.7.8)
+      '@guoyunhe/use-throttle-callback':
+        specifier: ^1.0.0
+        version: 1.0.0(react@19.1.1)
       '@mui/icons-material':
         specifier: ^7.2.0
         version: 7.2.0(@mui/material@7.2.0(@emotion/react@11.14.0(@types/react@19.1.9)(react@19.1.1))(@emotion/styled@11.14.1(@emotion/react@11.14.0(@types/react@19.1.9)(react@19.1.1))(@types/react@19.1.9)(react@19.1.1))(@types/react@19.1.9)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(@types/react@19.1.9)(react@19.1.1)
@@ -1088,6 +1091,11 @@ packages:
 
   '@guoyunhe/use-latest-ref@1.0.0':
     resolution: {integrity: sha512-ISIXXY4MykqxCOCswa10ccTQzXKOFFMwVA0rgrkZMSUW8gNFnKVAZ1p3yJD1a93P99+4qb16wHPPZeGyEl2iYA==}
+    peerDependencies:
+      react: '>=16.8.0'
+
+  '@guoyunhe/use-throttle-callback@1.0.0':
+    resolution: {integrity: sha512-ma5+1a4NSFNDrPaa/vMDmYM8ham1H7gHIM9uk6L/e6D1XZpSxgPgykXWB63NwMzp0k3tCIyXC6TUvtu3GfaNUQ==}
     peerDependencies:
       react: '>=16.8.0'
 
@@ -5134,6 +5142,10 @@ snapshots:
       react: 19.1.1
 
   '@guoyunhe/use-latest-ref@1.0.0(react@19.1.1)':
+    dependencies:
+      react: 19.1.1
+
+  '@guoyunhe/use-throttle-callback@1.0.0(react@19.1.1)':
     dependencies:
       react: 19.1.1
 

@@ -37,6 +37,7 @@
     "@emotion/styled": "^11.14.1",
     "@fontsource/roboto": "^5.2.6",
     "@guoyunhe/react-auth": "3.0.0-4",
+    "@guoyunhe/use-throttle-callback": "^1.0.0",
     "@mui/icons-material": "^7.2.0",
     "@mui/material": "^7.2.0",
     "i18next": "^25.3.2",

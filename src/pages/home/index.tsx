@@ -1,9 +1,15 @@
 import { Search as SearchIcon } from '@mui/icons-material';
 import { Box, Input, Typography, colors } from '@mui/material';
+import { useState } from 'react';
+import { useFetch } from 'react-fast-fetch';
 import { useTranslation } from 'react-i18next';
 
 export default function HomePage() {
   const { t } = useTranslation();
+  const [keyword, setKeyword] = useState('');
+  const { data = [] } = useFetch('/games.json');
+
+  console.log(data);
 
   return (
     <Box>
@@ -19,7 +25,14 @@ export default function HomePage() {
         <Typography variant="h1" mb={4}>
           {t('Android Games Support Game Controllers')}
         </Typography>
-        <Input endAdornment={<SearchIcon />} placeholder={t('Search')} />
+        <Input
+          endAdornment={<SearchIcon />}
+          placeholder={t('Search')}
+          value={keyword}
+          onChange={(e) => {
+            setKeyword(e.target.value);
+          }}
+        />
       </Box>
       <Box
         component="section"
