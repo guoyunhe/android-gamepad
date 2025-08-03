@@ -3,6 +3,7 @@
     "play": "com.blizzard.diablo.immortal",
     "taptap": 146791,
     "xiaomi": "com.netease.g67.mi",
+    "rating": 4.2,
     "name": {
       "en": "Diablo Immortal",
       "zh": "暗黑破坏神：不朽"
@@ -15,6 +16,7 @@
   {
     "play": "com.poncle.vampiresurvivors",
     "taptap": 262197,
+    "rating": 4.4,
     "name": {
       "en": "Vampire Survivors",
       "zh": "吸血鬼幸存者"

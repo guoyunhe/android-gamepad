@@ -1,4 +1,13 @@
-import { Avatar, Card, CardActions, CardHeader, CardMedia, IconButton } from '@mui/material';
+import {
+  Avatar,
+  Box,
+  Card,
+  CardActions,
+  CardHeader,
+  CardMedia,
+  IconButton,
+  Rating,
+} from '@mui/material';
 import { useTranslation } from 'react-i18next';
 import Game from '~/types/Game';
 
@@ -14,7 +23,19 @@ export default function GameCard({ game }: GameCardProps) {
       <CardHeader
         avatar={<Avatar variant="rounded" src={game.icon} sx={{ width: 48, height: 48 }} />}
         title={game.name[i18n.language]}
-        subheader={game.play}
+        subheader={
+          <Box sx={{ display: 'flex', alignItems: 'center' }}>
+            <Rating
+              name="read-only"
+              value={game.rating}
+              readOnly
+              precision={0.1}
+              size="small"
+              sx={{ mr: 0.5 }}
+            />
+            <Box sx={{ fontSize: 14 }}>{game.rating?.toFixed(1)}</Box>
+          </Box>
+        }
       />
       <CardMedia
         component="img"

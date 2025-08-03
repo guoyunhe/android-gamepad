@@ -3,6 +3,7 @@ export default interface Game {
   taptap?: number;
   xiaomi?: string;
   name: Record<string, string>;
+  rating: number;
   icon: string;
   screenshots: string[];
 }

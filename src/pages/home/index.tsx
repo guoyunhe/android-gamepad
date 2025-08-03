@@ -11,6 +11,8 @@ export default function HomePage() {
   const [keyword, setKeyword] = useState('');
   const { data = [] } = useFetch<Game[]>('/games.json');
 
+  data.sort((a, b) => b.rating - a.rating);
+
   return (
     <Box>
       <Box
