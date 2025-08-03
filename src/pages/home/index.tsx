@@ -1,4 +1,4 @@
-import { Search as SearchIcon } from '@mui/icons-material';
+import { Android as AndroidIcon, Search as SearchIcon } from '@mui/icons-material';
 import { Box, Input, Typography, colors } from '@mui/material';
 import { useState } from 'react';
 import { useFetch } from 'react-fast-fetch';
@@ -31,6 +31,8 @@ export default function HomePage() {
         flexDirection="column"
         justifyContent="center"
         alignItems="center"
+        position="relative"
+        overflow="hidden"
       >
         <Typography variant="h1" mb={4}>
           {t('Android Games Support Game Controllers')}
@@ -43,16 +45,37 @@ export default function HomePage() {
             setKeyword(e.target.value);
           }}
         />
+        <AndroidIcon
+          sx={{
+            position: 'absolute',
+            right: 0,
+            bottom: -50,
+            width: 200,
+            height: 200,
+            opacity: 0.3,
+          }}
+        />
+        <AndroidIcon
+          sx={{
+            position: 'absolute',
+            left: 0,
+            top: -50,
+            width: 200,
+            height: 200,
+            opacity: 0.3,
+            transform: 'rotate(180deg)',
+          }}
+        />
       </Box>
 
       <Box
-        component="section"
-        height={400}
-        display="flex"
-        justifyContent="center"
-        alignItems="center"
-        gap={4}
-        flexWrap="wrap"
+        sx={{
+          display: 'flex',
+          p: 2,
+          gap: 2,
+          flexWrap: 'wrap',
+          justifyContent: 'center',
+        }}
       >
         {data.map((item) => (
           <GameCard key={item.play || item.taptap} game={item} />
