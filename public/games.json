@@ -42,6 +42,7 @@
   {
     "play": "com.playdigious.deadcells.mobile",
     "taptap": 171015,
+    "xiaomi": "com.bilibili.deadcells.mobile.mi",
     "rating": 4.8,
     "name": {
       "en": "Dead Cells",
@@ -50,6 +51,19 @@
     "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
     "screenshots": [
       "https://play-lh.googleusercontent.com/af9mFH4XinZ7f6dx-Ygm9molYPAcMHhhZyQ0udDBd9S9-44v_VBdeA0rjSlQyJRpQg"
+    ]
+  },
+  {
+    "play": "com.actgames.bbee.gl",
+    "taptap": 233514,
+    "rating": 3.3,
+    "name": {
+      "en": "BlazBlue: Entropy Effect",
+      "zh": "苍翼：混沌效应"
+    },
+    "icon": "https://play-lh.googleusercontent.com/jF7VOr8fr-vknCT4z1RdHCRWhPoIHMgWfqpXg3HlASD2AT6iVqfpj0qQsDoGtnay594",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/r1JO-Cxnm6tTIzrUN1aLnNl2zxThHYD8x3yX-g31gLEu4LhSy9sWZl7UvDydbBaaCw"
     ]
   }
 ]
