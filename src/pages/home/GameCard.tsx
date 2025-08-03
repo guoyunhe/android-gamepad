@@ -27,15 +27,24 @@ export default function GameCard({ game }: GameCardProps) {
         }}
       />
       <CardActions>
-        <IconButton
-          href={`https://play.google.com/store/apps/details?id=${game.play}`}
-          title="Google Play"
-        >
-          <img src="/play.svg" width={24} height={24} />
-        </IconButton>
-        <IconButton href={`https://www.taptap.cn/app/${game.taptap}?os=android`} title="TapTap">
-          <img src="/taptap.svg" width={24} height={24} style={{ borderRadius: 4 }} />
-        </IconButton>
+        {game.play && (
+          <IconButton
+            href={`https://play.google.com/store/apps/details?id=${game.play}`}
+            title="Google Play"
+          >
+            <img src="/play.svg" width={24} height={24} />
+          </IconButton>
+        )}
+        {game.taptap && (
+          <IconButton href={`https://www.taptap.cn/app/${game.taptap}?os=android`} title="TapTap">
+            <img src="/taptap.svg" width={24} height={24} style={{ borderRadius: 4 }} />
+          </IconButton>
+        )}
+        {game.xiaomi && (
+          <IconButton href={`https://app.mi.com/details?id=${game.xiaomi}`} title="TapTap">
+            <img src="/xiaomi.svg" width={24} height={24} style={{ borderRadius: 4 }} />
+          </IconButton>
+        )}
       </CardActions>
     </Card>
   );
