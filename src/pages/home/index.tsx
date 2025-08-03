@@ -1,62 +1,29 @@
-import { Box, Button, Typography, colors } from '@mui/material';
+import { Search as SearchIcon } from '@mui/icons-material';
+import { Box, Input, Typography, colors } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 
 export default function HomePage() {
-  const { t } = useTranslation('home');
+  const { t } = useTranslation();
 
   return (
     <Box>
-      <title>
-        {t('Home')} - {import.meta.env.VITE_APP_NAME}
-      </title>
       <Box
         component="header"
-        bgcolor={colors.amber[300]}
-        height={400}
+        bgcolor={colors.green[500]}
+        height={240}
         display="flex"
         flexDirection="column"
         justifyContent="center"
         alignItems="center"
       >
         <Typography variant="h1" mb={4}>
-          {t('Something Impressive')}
+          {t('Android Games Support Game Controllers')}
         </Typography>
-        <Button variant="contained" size="large">
-          {t('Get Started')}
-        </Button>
+        <Input endAdornment={<SearchIcon />} placeholder={t('Search')} />
       </Box>
       <Box
         component="section"
         height={400}
-        display="flex"
-        justifyContent="center"
-        alignItems="center"
-      >
-        <Typography variant="h2">{t('Content Block')}</Typography>
-      </Box>
-      <Box
-        component="section"
-        height={400}
-        bgcolor={colors.blueGrey[200]}
-        display="flex"
-        justifyContent="center"
-        alignItems="center"
-      >
-        <Typography variant="h2">{t('Content Block')}</Typography>
-      </Box>
-      <Box
-        component="section"
-        height={400}
-        display="flex"
-        justifyContent="center"
-        alignItems="center"
-      >
-        <Typography variant="h2">{t('Content Block')}</Typography>
-      </Box>
-      <Box
-        component="section"
-        height={400}
-        bgcolor={colors.blueGrey[200]}
         display="flex"
         justifyContent="center"
         alignItems="center"
