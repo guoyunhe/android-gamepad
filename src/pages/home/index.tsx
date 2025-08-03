@@ -3,13 +3,13 @@ import { Box, Input, Typography, colors } from '@mui/material';
 import { useState } from 'react';
 import { useFetch } from 'react-fast-fetch';
 import { useTranslation } from 'react-i18next';
+import Game from '~/types/Game';
+import GameCard from './GameCard';
 
 export default function HomePage() {
   const { t } = useTranslation();
   const [keyword, setKeyword] = useState('');
-  const { data = [] } = useFetch('/games.json');
-
-  console.log(data);
+  const { data = [] } = useFetch<Game[]>('/games.json');
 
   return (
     <Box>
@@ -34,6 +34,7 @@ export default function HomePage() {
           }}
         />
       </Box>
+
       <Box
         component="section"
         height={400}
@@ -41,7 +42,9 @@ export default function HomePage() {
         justifyContent="center"
         alignItems="center"
       >
-        <Typography variant="h2">{t('Content Block')}</Typography>
+        {data.map((item) => (
+          <GameCard key={item.play || item.taptap} game={item} />
+        ))}
       </Box>
     </Box>
   );

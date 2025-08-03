@@ -1,6 +1,14 @@
 [
   {
-    "play": "",
-    "taptap": 123456
+    "play": "com.blizzard.diablo.immortal",
+    "taptap": 146791,
+    "name": {
+      "en": "Diablo Immortal",
+      "zh": "暗黑破坏神：不朽"
+    },
+    "icon": "https://play-lh.googleusercontent.com/jWHGe_mcP8G9JxeF-GlK90K7vrf25xmpjJxjODSBCAngd11iiR6rn2Y8mPRenNtYRmA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/voGhPpHpOdeMQI0A3-0kPzSkfro5-l3kW0gHtYx_UVb7SZ2bYOkh6ioz7U59o_N7LCU"
+    ]
   }
 ]
