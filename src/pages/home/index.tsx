@@ -9,9 +9,17 @@ import GameCard from './GameCard';
 export default function HomePage() {
   const { t } = useTranslation();
   const [keyword, setKeyword] = useState('');
-  const { data = [] } = useFetch<Game[]>('/games.json');
+  let { data = [] } = useFetch<Game[]>('/games.json');
 
   data.sort((a, b) => b.rating - a.rating);
+
+  if (keyword.trim()) {
+    const keywordList = keyword.toLowerCase().trim().split(/\s/);
+    data = data.filter((item) => {
+      const names = Object.values(item.name).join(' ').toLowerCase();
+      return keywordList.every((kw) => names.includes(kw));
+    });
+  }
 
   return (
     <Box>
