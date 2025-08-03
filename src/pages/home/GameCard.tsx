@@ -1,4 +1,4 @@
-import { Avatar, Card, CardContent, CardHeader, CardMedia } from '@mui/material';
+import { Avatar, Card, CardActions, CardHeader, CardMedia, IconButton } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 import Game from '~/types/Game';
 
@@ -26,7 +26,17 @@ export default function GameCard({ game }: GameCardProps) {
           height: 'auto',
         }}
       />
-      <CardContent>TODO</CardContent>
+      <CardActions>
+        <IconButton
+          href={`https://play.google.com/store/apps/details?id=${game.play}`}
+          title="Google Play"
+        >
+          <img src="/play.svg" width={24} height={24} />
+        </IconButton>
+        <IconButton href={`https://www.taptap.cn/app/${game.taptap}?os=android`} title="TapTap">
+          <img src="/taptap.svg" width={24} height={24} style={{ borderRadius: 4 }} />
+        </IconButton>
+      </CardActions>
     </Card>
   );
 }
