@@ -32,17 +32,18 @@ export default function TopNav({ onMenuButtonClick }: TopNavProps) {
         <Box
           component={Link}
           to="/"
-          style={{ display: 'flex', color: 'inherit', textDecoration: 'none' }}
+          style={{
+            display: 'flex',
+            color: 'inherit',
+            textDecoration: 'none',
+            alignItems: 'center',
+          }}
         >
-          <Box
-            component="img"
-            src="/logo.png"
-            width={32}
-            height={32}
-            sx={{ mr: 1, display: { xs: 'none', sm: 'block' } }}
-          />
-          <Typography fontSize={20} color="inherit" component="div">
-            Android Gamepad
+          <Box component="img" src="/logo.png" width={48} height={48} sx={{ mr: 1 }} />
+          <Typography fontSize={14} lineHeight={1} color="inherit" fontWeight={600}>
+            Android+
+            <br />
+            Gamepad
           </Typography>
         </Box>
         <Stack direction="row" ml={3} sx={{ display: { xs: 'none', sm: 'flex' } }}>

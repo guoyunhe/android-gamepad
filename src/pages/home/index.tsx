@@ -34,17 +34,6 @@ export default function HomePage() {
         position="relative"
         overflow="hidden"
       >
-        <Typography variant="h1" mb={4}>
-          {t('Android Games Support Game Controllers')}
-        </Typography>
-        <Input
-          endAdornment={<SearchIcon />}
-          placeholder={t('Search')}
-          value={keyword}
-          onChange={(e) => {
-            setKeyword(e.target.value);
-          }}
-        />
         <AndroidIcon
           sx={{
             position: 'absolute',
@@ -64,6 +53,17 @@ export default function HomePage() {
             height: 200,
             opacity: 0.3,
             transform: 'rotate(180deg)',
+          }}
+        />
+        <Typography variant="h1" mb={4} align="center">
+          {t('Android Games Support Game Controllers')}
+        </Typography>
+        <Input
+          endAdornment={<SearchIcon />}
+          placeholder={t('Search')}
+          value={keyword}
+          onChange={(e) => {
+            setKeyword(e.target.value);
           }}
         />
       </Box>
