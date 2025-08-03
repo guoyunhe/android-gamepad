@@ -18,9 +18,9 @@ export default function GameCard({ game }: GameCardProps) {
       />
       <CardMedia
         component="img"
-        width={1920}
-        height={1080}
-        image={`${game.screenshots[0]}=w1920-h1080`}
+        width={640}
+        height={360}
+        image={`${game.screenshots[0]}=w1280-h360`}
         sx={{
           width: '100%',
           height: 'auto',

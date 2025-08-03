@@ -41,6 +41,8 @@ export default function HomePage() {
         display="flex"
         justifyContent="center"
         alignItems="center"
+        gap={4}
+        flexWrap="wrap"
       >
         {data.map((item) => (
           <GameCard key={item.play || item.taptap} game={item} />
