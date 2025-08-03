@@ -41,7 +41,7 @@ export default function GameCard({ game }: GameCardProps) {
           </IconButton>
         )}
         {game.xiaomi && (
-          <IconButton href={`https://app.mi.com/details?id=${game.xiaomi}`} title="TapTap">
+          <IconButton href={`https://app.mi.com/details?id=${game.xiaomi}`} title="小米应用商店">
             <img src="/xiaomi.svg" width={24} height={24} style={{ borderRadius: 4 }} />
           </IconButton>
         )}
