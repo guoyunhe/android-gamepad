@@ -78,5 +78,17 @@
     "screenshots": [
       "https://play-lh.googleusercontent.com/Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY"
     ]
+  },
+  {
+    "play": "com.activision.callofduty.shooter",
+    "rating": 4.3,
+    "name": {
+      "en": "Call of Duty: Mobile",
+      "zh": "使命召唤手游"
+    },
+    "icon": "https://play-lh.googleusercontent.com/GBaWlaevq4CA0xN13QYlIseEmL2inzVEx9z3HBBJPNbIQmlZLgA9lj-pfbY4h3XVa5Xvuns3ORaWSEvk8IbSDyQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w"
+    ]
   }
 ]
