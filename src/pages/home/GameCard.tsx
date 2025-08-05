@@ -44,7 +44,9 @@ export default function GameCard({ game }: GameCardProps) {
         image={`${game.screenshots[0]}=w1280-h360`}
         sx={{
           width: '100%',
-          height: 'auto',
+          height: '225px',
+          objectFit: 'cover',
+          objectPosition: 'center',
         }}
       />
       <CardActions>
@@ -54,6 +56,11 @@ export default function GameCard({ game }: GameCardProps) {
             title="Google Play"
           >
             <img src="/play.svg" width={24} height={24} />
+          </IconButton>
+        )}
+        {game.fdroid && (
+          <IconButton href={`https://f-droid.org/packages/${game.fdroid}/`} title="F-Droid">
+            <img src="/fdroid.svg" width={24} height={24} />
           </IconButton>
         )}
         {game.taptap && (
