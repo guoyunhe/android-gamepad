@@ -90,5 +90,17 @@
     "screenshots": [
       "https://play-lh.googleusercontent.com/6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w"
     ]
+  },
+  {
+    "play": "org.supertuxkart.stk",
+    "rating": 3.8,
+    "name": {
+      "en": "SuperTuxKart",
+      "zh": "企鹅卡丁车"
+    },
+    "icon": "https://play-lh.googleusercontent.com/0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8"
+    ]
   }
 ]
