@@ -65,5 +65,18 @@
     "screenshots": [
       "https://play-lh.googleusercontent.com/r1JO-Cxnm6tTIzrUN1aLnNl2zxThHYD8x3yX-g31gLEu4LhSy9sWZl7UvDydbBaaCw"
     ]
+  },
+  {
+    "play": "net.minetest.minetest",
+    "fdroid": "net.minetest.minetest",
+    "rating": 3.9,
+    "name": {
+      "en": "Luanti/Minetest",
+      "zh": "Luanti/Minetest"
+    },
+    "icon": "https://play-lh.googleusercontent.com/UBDUHmZDKcSaPJVq02ClXjmE-oXpPVZAbAgjKqZZWI4SRAiioWR5ZVfAgRF5wbTmhRM",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY"
+    ]
   }
 ]

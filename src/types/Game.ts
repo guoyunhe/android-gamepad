@@ -4,6 +4,7 @@ export default interface Game {
   xiaomi?: string;
   name: Record<string, string>;
   rating: number;
+  price: number;
   icon: string;
   screenshots: string[];
 }
