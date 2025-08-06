@@ -8,10 +8,8 @@
       "en": "Diablo Immortal",
       "zh": "暗黑破坏神：不朽"
     },
-    "icon": "https://play-lh.googleusercontent.com/jWHGe_mcP8G9JxeF-GlK90K7vrf25xmpjJxjODSBCAngd11iiR6rn2Y8mPRenNtYRmA",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/voGhPpHpOdeMQI0A3-0kPzSkfro5-l3kW0gHtYx_UVb7SZ2bYOkh6ioz7U59o_N7LCU"
-    ]
+    "icon": "jWHGe_mcP8G9JxeF-GlK90K7vrf25xmpjJxjODSBCAngd11iiR6rn2Y8mPRenNtYRmA",
+    "screenshots": ["voGhPpHpOdeMQI0A3-0kPzSkfro5-l3kW0gHtYx_UVb7SZ2bYOkh6ioz7U59o_N7LCU"]
   },
   {
     "play": "com.poncle.vampiresurvivors",
@@ -21,10 +19,8 @@
       "en": "Vampire Survivors",
       "zh": "吸血鬼幸存者"
     },
-    "icon": "https://play-lh.googleusercontent.com/R1dShZj1HNBQzrHhsAD9_F8BRc2FU-nlDMU7OIAIwnMge04QWvNZR-clnXnEd_v30Qo",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/XQX__SEtkhRK4qYXXfPB7FaDk5gut_OPRqCXaoGuWs0yd89jiNy7-9QbiaLGRcmLnlE"
-    ]
+    "icon": "R1dShZj1HNBQzrHhsAD9_F8BRc2FU-nlDMU7OIAIwnMge04QWvNZR-clnXnEd_v30Qo",
+    "screenshots": ["XQX__SEtkhRK4qYXXfPB7FaDk5gut_OPRqCXaoGuWs0yd89jiNy7-9QbiaLGRcmLnlE"]
   },
   {
     "play": "com.xd.TLglobal",
@@ -34,10 +30,8 @@
       "en": "Torchlight: Infinite",
       "zh": "火炬之光：无限"
     },
-    "icon": "https://play-lh.googleusercontent.com/o3elC3AIlhsYnuY2cQwKzWjDAH2mcDGxx7jx7aFCRSpW7lpkZfDqTtSXrz0O910G33U",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/u2p2z-Adcze8pK5OQsZ6z1MkTtZlzWuTovehQRuM3--BGxaov_lnDxSG_69HnBtLy5A"
-    ]
+    "icon": "o3elC3AIlhsYnuY2cQwKzWjDAH2mcDGxx7jx7aFCRSpW7lpkZfDqTtSXrz0O910G33U",
+    "screenshots": ["u2p2z-Adcze8pK5OQsZ6z1MkTtZlzWuTovehQRuM3--BGxaov_lnDxSG_69HnBtLy5A"]
   },
   {
     "play": "com.playdigious.deadcells.mobile",
@@ -48,10 +42,8 @@
       "en": "Dead Cells",
       "zh": "重生细胞"
     },
-    "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/af9mFH4XinZ7f6dx-Ygm9molYPAcMHhhZyQ0udDBd9S9-44v_VBdeA0rjSlQyJRpQg"
-    ]
+    "icon": "Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
+    "screenshots": ["af9mFH4XinZ7f6dx-Ygm9molYPAcMHhhZyQ0udDBd9S9-44v_VBdeA0rjSlQyJRpQg"]
   },
   {
     "play": "com.actgames.bbee.gl",
@@ -61,10 +53,8 @@
       "en": "BlazBlue: Entropy Effect",
       "zh": "苍翼：混沌效应"
     },
-    "icon": "https://play-lh.googleusercontent.com/jF7VOr8fr-vknCT4z1RdHCRWhPoIHMgWfqpXg3HlASD2AT6iVqfpj0qQsDoGtnay594",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/r1JO-Cxnm6tTIzrUN1aLnNl2zxThHYD8x3yX-g31gLEu4LhSy9sWZl7UvDydbBaaCw"
-    ]
+    "icon": "jF7VOr8fr-vknCT4z1RdHCRWhPoIHMgWfqpXg3HlASD2AT6iVqfpj0qQsDoGtnay594",
+    "screenshots": ["r1JO-Cxnm6tTIzrUN1aLnNl2zxThHYD8x3yX-g31gLEu4LhSy9sWZl7UvDydbBaaCw"]
   },
   {
     "play": "net.minetest.minetest",
@@ -74,10 +64,8 @@
       "en": "Luanti/Minetest",
       "zh": "Luanti/Minetest"
     },
-    "icon": "https://play-lh.googleusercontent.com/UBDUHmZDKcSaPJVq02ClXjmE-oXpPVZAbAgjKqZZWI4SRAiioWR5ZVfAgRF5wbTmhRM",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY"
-    ]
+    "icon": "UBDUHmZDKcSaPJVq02ClXjmE-oXpPVZAbAgjKqZZWI4SRAiioWR5ZVfAgRF5wbTmhRM",
+    "screenshots": ["Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY"]
   },
   {
     "play": "com.activision.callofduty.shooter",
@@ -86,10 +74,8 @@
       "en": "Call of Duty: Mobile",
       "zh": "使命召唤手游"
     },
-    "icon": "https://play-lh.googleusercontent.com/GBaWlaevq4CA0xN13QYlIseEmL2inzVEx9z3HBBJPNbIQmlZLgA9lj-pfbY4h3XVa5Xvuns3ORaWSEvk8IbSDyQ",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w"
-    ]
+    "icon": "GBaWlaevq4CA0xN13QYlIseEmL2inzVEx9z3HBBJPNbIQmlZLgA9lj-pfbY4h3XVa5Xvuns3ORaWSEvk8IbSDyQ",
+    "screenshots": ["6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w"]
   },
   {
     "play": "org.supertuxkart.stk",
@@ -98,9 +84,7 @@
       "en": "SuperTuxKart",
       "zh": "企鹅卡丁车"
     },
-    "icon": "https://play-lh.googleusercontent.com/0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8"
-    ]
+    "icon": "0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67",
+    "screenshots": ["_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8"]
   }
 ]
