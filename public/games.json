@@ -86,5 +86,15 @@
     },
     "icon": "0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67",
     "screenshots": ["_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8"]
+  },
+  {
+    "play": "com.mojang.minecraftpe",
+    "rating": 4.4,
+    "name": {
+      "en": "Minecraft",
+      "zh": "我的世界"
+    },
+    "icon": "27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w",
+    "screenshots": ["YgZ-1CKekDn9VwNeqqltN3deQxkqfLn4ku3PSkzdsGejMZ1kTzRkRzNMLepFZFpjXuU"]
   }
 ]
