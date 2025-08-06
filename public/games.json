@@ -106,5 +106,15 @@
     },
     "icon": "CachTgIoVy7oEtLlgeo8bPcJfaUHRopRYUOH-DYyeiRsQQaqg8gjpp1qGgOs3wiC2IQ",
     "screenshots": ["NtRc0FQ8B7y0Bz_XVnTgRm1M0lvsZp9trofWe7cW814_IEptkhhKMQO2D5rcyz3btOBk"]
+  },
+  {
+    "play": "com.feralinteractive.alienisolation_android",
+    "rating": 4.3,
+    "name": {
+      "en": "Alien: Isolation",
+      "zh": "异形：隔离"
+    },
+    "icon": "WSWIHB-QdvM9MgaVHf-9BWVIu7kapJOJTU8RqaRdD2157ffEEoKZYhQPwQgJgEQpUtM",
+    "screenshots": ["GF6bCTw7Wz3vF5_jKR740YQNIr4CF5EXkvXnPRkEEgPbANZtSNAt025xDgMKB1BnjIY"]
   }
 ]
