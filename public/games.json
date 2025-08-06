@@ -96,5 +96,15 @@
     },
     "icon": "27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w",
     "screenshots": ["YgZ-1CKekDn9VwNeqqltN3deQxkqfLn4ku3PSkzdsGejMZ1kTzRkRzNMLepFZFpjXuU"]
+  },
+  {
+    "play": "net.froemling.bombsquad",
+    "rating": 4.5,
+    "name": {
+      "en": "BombSquad",
+      "zh": "炸弹小分队"
+    },
+    "icon": "CachTgIoVy7oEtLlgeo8bPcJfaUHRopRYUOH-DYyeiRsQQaqg8gjpp1qGgOs3wiC2IQ",
+    "screenshots": ["NtRc0FQ8B7y0Bz_XVnTgRm1M0lvsZp9trofWe7cW814_IEptkhhKMQO2D5rcyz3btOBk"]
   }
 ]
