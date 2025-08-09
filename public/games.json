@@ -128,6 +128,16 @@
     "screenshots": ["Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY"]
   },
   {
+    "play": "org.dolphinemu.dolphinemu",
+    "rating": 4.1,
+    "name": {
+      "en": "Dolphin Emulator (NGC/Wii)",
+      "zh": "Dolphin 模拟器 (NGC/Wii)"
+    },
+    "icon": "-09r-5hc-kmCEVcEMydcgpiaJjdbKxdzdB7D1t3V27uF5UVRvuspY7tEovedw67beO8",
+    "screenshots": ["Q4BKZMo23U5c9b33KbUfnkD68nzdbHuAAcNqZ-UhJfrbg_-2DHfvwZKpcXhHbeW0lg"]
+  },
+  {
     "play": "org.ppsspp.ppsspp",
     "rating": 4.3,
     "name": {
