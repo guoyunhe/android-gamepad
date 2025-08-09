@@ -19,7 +19,7 @@ export default function TopNav({ onMenuButtonClick }: TopNavProps) {
   const [location] = useLocation();
 
   return (
-    <AppBar position="static" color="transparent" elevation={0}>
+    <AppBar position="sticky" color="default">
       <Toolbar>
         <IconButton
           color="inherit"
