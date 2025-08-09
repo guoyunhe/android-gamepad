@@ -24,7 +24,7 @@
     "*.{cjs,cts,js,jsx,mjs,mts,ts,tsx,vue}": "eslint --fix",
     "*.{css,less,scss}": "stylelint --fix",
     "*.{cjs,css,cts,html,js,json,jsx,less,md,mjs,mts,scss,ts,tsx,vue,yaml,yml}": "prettier --write",
-    "games.json": "node --experimental-transform-types ./scripts/sort-games.ts"
+    "games.json": "node --experimental-transform-types ./scripts/sort-games.ts && prettier --write"
   },
   "prettier": "prettier-config-ali",
   "stylelint": {
