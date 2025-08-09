@@ -22,3 +22,5 @@ games.forEach((game) => {
 });
 
 await writeFile(gamesFile, JSON.stringify(games, null, 2));
+
+await readFile(gamesFile, 'utf-8');
