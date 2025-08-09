@@ -1,4 +1,4 @@
-import LanguageMenu from '#components/language-menu';
+import LanguageMenu from '#components/LanguageMenu';
 import {
   Android as AndroidIcon,
   GitHub as GitHubIcon,
