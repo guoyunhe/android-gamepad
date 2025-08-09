@@ -1,15 +1,9 @@
-import { AuthStatus, useAuthStatus, useAuthUser, useLogout } from '@guoyunhe/react-auth';
 import {
-  AutoAwesome as AutoAwesomeIcon,
-  Dashboard as DashboardIcon,
-  Login as LoginIcon,
-  Logout as LogoutIcon,
-  PersonAdd as PersonAddIcon,
-  Sell as SellIcon,
-  Settings as SettingsIcon,
-  SupportAgent as SupportAgentIcon,
+  Android as AndroidIcon,
+  GitHub as GitHubIcon,
+  SportsEsports as SportsEsportsIcon,
 } from '@mui/icons-material';
-import { Divider, Drawer, List, ListItemButton, ListItemIcon, ListItemText } from '@mui/material';
+import { Drawer, List, ListItemButton, ListItemIcon, ListItemText } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 import { Link, useLocation } from 'wouter';
 import { drawerWidth } from './config';
@@ -22,69 +16,28 @@ export interface LeftNavProps {
 export default function LeftNav({ drawerOpen, onDrawerClose }: LeftNavProps) {
   const { t } = useTranslation();
   const [location] = useLocation();
-  const [status] = useAuthStatus();
-  const [user] = useAuthUser();
-  const logout = useLogout();
 
   return (
     <Drawer open={drawerOpen} onClose={onDrawerClose} sx={{ width: drawerWidth }}>
       <List sx={{ width: drawerWidth }} onClick={onDrawerClose}>
-        <ListItemButton selected={location === '/features'} component={Link} to="/features">
+        <ListItemButton selected={location === '/'} component={Link} to="/">
           <ListItemIcon>
-            <AutoAwesomeIcon />
+            <AndroidIcon />
           </ListItemIcon>
-          <ListItemText primary={t('Features')} />
+          <ListItemText primary={t('Games')} />
         </ListItemButton>
-        <ListItemButton selected={location === '/pricing'} component={Link} to="/pricing">
+        <ListItemButton selected={location === '/controllers'} component={Link} to="/controllers">
           <ListItemIcon>
-            <SellIcon />
+            <SportsEsportsIcon />
           </ListItemIcon>
-          <ListItemText primary={t('Pricing')} />
+          <ListItemText primary={t('Controllers')} />
         </ListItemButton>
-        <ListItemButton selected={location === '/support'} component={Link} to="/support">
+        <ListItemButton component="a" href="https://github.com/guoyunhe/android-gamepad">
           <ListItemIcon>
-            <SupportAgentIcon />
+            <GitHubIcon />
           </ListItemIcon>
-          <ListItemText primary={t('Support')} />
+          <ListItemText primary="GitHub" />
         </ListItemButton>
-        <Divider />
-        {status === AuthStatus.LoggedIn && user ? (
-          <>
-            <ListItemButton component={Link} to="/app">
-              <ListItemIcon>
-                <DashboardIcon />
-              </ListItemIcon>
-              <ListItemText primary={t('Dashboard')} />
-            </ListItemButton>
-            <ListItemButton component={Link} to="/app/settings">
-              <ListItemIcon>
-                <SettingsIcon />
-              </ListItemIcon>
-              <ListItemText primary={t('Settings')} />
-            </ListItemButton>
-            <ListItemButton onClick={logout.submit}>
-              <ListItemIcon>
-                <LogoutIcon />
-              </ListItemIcon>
-              <ListItemText primary={t('Logout')} />
-            </ListItemButton>
-          </>
-        ) : (
-          <>
-            <ListItemButton component={Link} to="/login">
-              <ListItemIcon>
-                <LoginIcon />
-              </ListItemIcon>
-              <ListItemText primary={t('Login')} />
-            </ListItemButton>
-            <ListItemButton component={Link} to="/register">
-              <ListItemIcon>
-                <PersonAddIcon />
-              </ListItemIcon>
-              <ListItemText primary={t('Register')} />
-            </ListItemButton>
-          </>
-        )}
       </List>
     </Drawer>
   );
