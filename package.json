@@ -21,9 +21,9 @@
     ]
   },
   "lint-staged": {
+    "games.json": "node --experimental-transform-types ./scripts/sort-games.ts && prettier --write",
     "*.{cjs,cts,js,jsx,mjs,mts,ts,tsx,vue}": "eslint --fix",
     "*.{css,less,scss}": "stylelint --fix",
-    "games.json": "node --experimental-transform-types ./scripts/sort-games.ts && prettier --write",
     "*.{cjs,css,cts,html,js,json,jsx,less,md,mjs,mts,scss,ts,tsx,vue,yaml,yml}": "prettier --write"
   },
   "prettier": "prettier-config-ali",
