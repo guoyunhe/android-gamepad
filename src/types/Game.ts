@@ -1,5 +1,5 @@
 export default interface Game {
-  play?: string;
+  play: string;
   fdroid?: string;
   taptap?: number;
   xiaomi?: string;

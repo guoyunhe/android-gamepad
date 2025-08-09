@@ -1,3 +1,4 @@
+import Game from '#types/Game';
 import {
   Avatar,
   Box,
@@ -9,7 +10,6 @@ import {
   Rating,
 } from '@mui/material';
 import { useTranslation } from 'react-i18next';
-import Game from '~/types/Game';
 
 export interface GameCardProps {
   game: Game;

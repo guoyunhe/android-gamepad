@@ -23,7 +23,8 @@
   "lint-staged": {
     "*.{cjs,cts,js,jsx,mjs,mts,ts,tsx,vue}": "eslint --fix",
     "*.{css,less,scss}": "stylelint --fix",
-    "*.{cjs,css,cts,html,js,json,jsx,less,md,mjs,mts,scss,ts,tsx,vue,yaml,yml}": "prettier --write"
+    "*.{cjs,css,cts,html,js,json,jsx,less,md,mjs,mts,scss,ts,tsx,vue,yaml,yml}": "prettier --write",
+    "games.json": "node --experimental-transform-types ./scripts/sort-games.ts"
   },
   "prettier": "prettier-config-ali",
   "stylelint": {
@@ -31,6 +32,13 @@
       "stylelint-config-ali",
       "stylelint-prettier/recommended"
     ]
+  },
+  "imports": {
+    "#bootstrap/*": "./src/bootstrap/*.ts",
+    "#components/*": "./src/components/*.tsx",
+    "#pages/*": "./src/pages/*.tsx",
+    "#types/*": "./src/types/*.ts",
+    "#utils/*": "./src/utils/*.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

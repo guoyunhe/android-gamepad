@@ -1,9 +1,9 @@
+import Game from '#types/Game';
 import { Android as AndroidIcon, Search as SearchIcon } from '@mui/icons-material';
 import { Box, Input, Typography, colors } from '@mui/material';
 import { useState } from 'react';
 import { useFetch } from 'react-fast-fetch';
 import { useTranslation } from 'react-i18next';
-import Game from '~/types/Game';
 import GameCard from './GameCard';
 
 export default function HomePage() {
