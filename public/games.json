@@ -145,6 +145,18 @@
     ]
   },
   {
+    "play": "com.playdigious.evoland2",
+    "rating": 4.2,
+    "name": {
+      "en": "Evoland 2",
+      "zh": "Evoland 2"
+    },
+    "icon": "https://play-lh.googleusercontent.com/xg-dWhkBUZQdc1EZInH-QRcHjqTFB2o5pz2UkclrX-5oH7a7s0HtLlusNuAdmWtBXCDU=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YkK2fQEmQqiICNkmBpA6BJRtu5CnqCNVzxssiSYalv2O3lTzAcbYtpF_1MdDYnUoWPU=w640-h360"
+    ]
+  },
+  {
     "play": "com.poncle.vampiresurvivors",
     "taptap": 262197,
     "rating": 4.4,
