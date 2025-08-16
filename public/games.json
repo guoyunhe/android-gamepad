@@ -7,9 +7,7 @@
       "zh": "Eden Switch 模拟器"
     },
     "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": [
-      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
-    ]
+    "screenshots": ["https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"]
   },
   {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
@@ -270,6 +268,23 @@
     "icon": "https://play-lh.googleusercontent.com/6yVPu4sFUAUg9bLBVxyuyM0NOazGRlWf9hTpkc0qU8A_chCmYzp5on1ajCUR-Sp9rro=s96",
     "screenshots": [
       "https://play-lh.googleusercontent.com/T5bmk0bR1TBiTOnWBXjQdUQqGtdKkbO97mKG0hS3z-VGAyKU6OElHe5rW0cJRxwfd_BX=w640-h360"
+    ]
+  },
+  {
+    "play": "com.vectorunit.silver.googleplay",
+    "rating": 4.5,
+    "name": {
+      "en": "Riptide GP: Renegade",
+      "zh": "Riptide GP: Renegade"
+    },
+    "icon": "https://play-lh.googleusercontent.com/8yswc2V9Si1EmpSCKmAkG7qzXMKmjYAiJDl6ukhGDcgi9jMtBmqnOBRJHYTDbxKBAAdC=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/W3au1BqBvEa34ATbTtWEgSwwkmrojUw92WjzMm80d4PWq2DQSYwS-L4YiL-MXKowifQ=w640-h360",
+      "https://play-lh.googleusercontent.com/dM1yK-se7t9QjobgiDKqWunrLAeAwFDzkeqEoPACeg_Eg3tTbhOfMcs8GOYOZQEZXQ=w640-h360",
+      "https://play-lh.googleusercontent.com/gJsSNgk-Pjx3SzSQPxC7USr1rvfHsVDnwtLrimibEUOI1TzAOEpELIW6IyyAlAmOKw=w640-h360",
+      "https://play-lh.googleusercontent.com/Kqi8wGOzDY-E3sg-eWuJDOJAFlN2jpxpjoXpmlu4jqjJtJZu5fUZ5h7zij-B7CduT8U=w640-h360",
+      "https://play-lh.googleusercontent.com/KNwdiI4Wi7EMJkS7tS2O0XK_E98G0zSddwRlE9lsDFlp3IfL2nuAA73ljOfYIgrBD70=w640-h360",
+      "https://play-lh.googleusercontent.com/Y_8OX2NcVTVWUjU0EmbHmd8QTkkoio_vW1SjFSbrYUIBPc2gJuxY7hQ6pcC871lnxESr=w640-h360"
     ]
   },
   {
