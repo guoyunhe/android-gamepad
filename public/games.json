@@ -95,6 +95,18 @@
     ]
   },
   {
+    "play": "com.direlight.grimvalor",
+    "rating": 4.7,
+    "name": {
+      "en": "Grimvalor",
+      "zh": "Grimvalor"
+    },
+    "icon": "https://play-lh.googleusercontent.com/riwqU-F5SXl8XW0icEWtQo5rA79-zbt9S9HlFWz0tJI81x2kmDXkG8u4LRw0YKgxf6g=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2_0diZ8Kn9iSGqYAQwDYADaXOOs3ss9D6thCfj7fr3nwz6JUY0VjPskmQxheZ8yV3RV4=w640-h360"
+    ]
+  },
+  {
     "play": "com.feralinteractive.alienisolation_android",
     "rating": 4.3,
     "name": {
