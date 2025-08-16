@@ -1,14 +1,7 @@
 {
-  "Features": "特性",
-  "Pricing": "价格",
-  "Support": "支持",
-  "Dashboard": "控制台",
-  "Settings": "设置",
-  "Logout": "注销",
-  "Login": "登录",
-  "Register": "注册",
   "Games": "游戏",
   "Controllers": "手柄",
+  "Download APK": "下载 APK",
   "Android Games Support Game Controllers": "支持手柄的安卓游戏",
   "Search": "搜索"
 }

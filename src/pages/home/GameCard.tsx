@@ -17,7 +17,7 @@ export interface GameCardProps {
 }
 
 export default function GameCard({ game }: GameCardProps) {
-  const { i18n } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   return (
     <Card key={game.play || game.taptap} sx={{ width: 400 }}>
@@ -75,7 +75,7 @@ export default function GameCard({ game }: GameCardProps) {
           </IconButton>
         )}
         {game.download && (
-          <IconButton href={game.download} title="Download">
+          <IconButton href={game.download} title={t('Download APK')}>
             <DownloadIcon />
           </IconButton>
         )}

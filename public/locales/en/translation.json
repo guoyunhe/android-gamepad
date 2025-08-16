@@ -1,14 +1,7 @@
 {
-  "Features": "Features",
-  "Pricing": "Pricing",
-  "Support": "Support",
-  "Dashboard": "Dashboard",
-  "Settings": "Settings",
-  "Logout": "Logout",
-  "Login": "Login",
-  "Register": "Register",
   "Games": "Games",
   "Controllers": "Controllers",
+  "Download APK": "Download APK",
   "Android Games Support Game Controllers": "Android Games Support Game Controllers",
   "Search": "Search"
 }
