@@ -49,6 +49,23 @@
     ]
   },
   {
+    "play": "com.bethsoft.DOOM",
+    "rating": 4.5,
+    "name": {
+      "en": "DOOM",
+      "zh": "毁灭战士"
+    },
+    "icon": "https://play-lh.googleusercontent.com/YgGvZhPQJB5A7ORRKmZtm7X-uzgyb9K0AUPzibzR77ajDN4hKy7L8EyYn6l0KYiryA=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mLXKDcEWMaBhXVIPOZz2mnRJjNmDxQfJFCw9bA9gYzVSKapHOj9q2XaDmLu9O3utJyw=w640-h360",
+      "https://play-lh.googleusercontent.com/3osuJ_hPrUA-S_il3Bsw34PtbgZVSAzFUhHgnDY22Mrs6tD1j2a94k6So-Zmtaus3ZD8=w640-h360",
+      "https://play-lh.googleusercontent.com/l5CTnwbbZm5EUaBlJqlworu8-7m2dHERlQYznn3Hooj5T2syfXCBdubv4J90hLgPXYlz=w640-h360",
+      "https://play-lh.googleusercontent.com/8pemHLBSoZktSUBfBgPibEs4xKQcNjHnGxca9bouHsWJVwGfbyQr_miSsK52W93rLqw=w640-h360",
+      "https://play-lh.googleusercontent.com/HGrKySogks-jxXqxhHcyAp-vNOc3wdcPC3EV67YcQaC8NnnEhyaKwJ44ZkAQspXpAA=w640-h360",
+      "https://play-lh.googleusercontent.com/V2ViLTwMs2dKq6B_sv0bv7voHAHYFLU-aKGp5xU8Avl1VY7xqAFK0hU0oUqdkSWoGbjc=w640-h360"
+    ]
+  },
+  {
     "play": "com.blizzard.diablo.immortal",
     "taptap": 146791,
     "xiaomi": "com.netease.g67.mi",
