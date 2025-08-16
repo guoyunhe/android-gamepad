@@ -145,6 +145,23 @@
     ]
   },
   {
+    "play": "com.mobge.Oddmar",
+    "rating": 4.6,
+    "name": {
+      "en": "Oddmar",
+      "zh": "奥德玛"
+    },
+    "icon": "https://play-lh.googleusercontent.com/NRQ3EOLAfYYtBdShS74jVGGyf9XNy9h__Nj4CLdmSyz0KhfmOvn1uriYw34nEF--1rOr=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VUK0WEO7ayXT6IWhEk0UYCX1skxC9RNdjWSOZ_cGJSDFXPeDlSozbHcAEdkGVfMhyQ=w640-h360",
+      "https://play-lh.googleusercontent.com/bcAD7xloQFWK365iWQqRIg2oNLysfvpo5pN6dzOKENcll37j0sUWz4fGjudiAAL_qlk=w640-h360",
+      "https://play-lh.googleusercontent.com/BLrwv4Vhb3D7MJKKtjqO73o6wvS5E918DWLG7CdxqRyUOZQOcNa9YBBaonQe84gN-w=w640-h360",
+      "https://play-lh.googleusercontent.com/RGM4acKkFgni_Uj41FNL8KfD6Jx14wLJqkPnhKhuUHlNxgBYT3URhE2pvxTUF10hrw=w640-h360",
+      "https://play-lh.googleusercontent.com/qLIUq10ww4y_sQa0Z8c3xO3KpztwY-ecSdSXa6axErZJtsR1ajF2iRkoFhjq0Jrif0U=w640-h360",
+      "https://play-lh.googleusercontent.com/LsC0FbJwoQaDcd8dAsSRsbqhOyT7bG7tGM_VY1FApJH_VFR3JLZGt9XjCuOCcKuJ-e7C=w640-h360"
+    ]
+  },
+  {
     "play": "com.mojang.minecraftpe",
     "rating": 4.4,
     "name": {
