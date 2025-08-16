@@ -155,6 +155,18 @@
     ]
   },
   {
+    "play": "com.playdead.limbo.full",
+    "rating": 4.6,
+    "name": {
+      "en": "LIMBO",
+      "zh": "LIMBO"
+    },
+    "icon": "https://play-lh.googleusercontent.com/FJ8e7NYhyjzrjuROUSpigJ1TQNnZKUDh6AZc1SFjiD665bZsxr_7zus0DzlHIrC6Lgk=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/GaptorFLFNZRTHSaV4Wh3R4nnhnd_LCCW1fNIwLERCyNcI3X5LOlK3TxeCKZLeoZowE=w640-h360"
+    ]
+  },
+  {
     "play": "com.playdigious.deadcells.mobile",
     "taptap": 171015,
     "xiaomi": "com.bilibili.deadcells.mobile.mi",
