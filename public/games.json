@@ -212,6 +212,23 @@
     ]
   },
   {
+    "play": "com.playdigious.sparklite",
+    "rating": 4.5,
+    "name": {
+      "en": "Sparklite",
+      "zh": "Sparklite"
+    },
+    "icon": "https://play-lh.googleusercontent.com/9s_MFUfMweTgjXTQnemsHjo9qIHFN0VlavTBzBX-KQbru1bIcRX0_03kbpYHli1O-QM=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6PlGKAjUxBhgB7YyArAAc0rZHsyug2Cj-639pjl_2Yb8BGDMCclJ0xbhk7lGlkJapw=w640-h360",
+      "https://play-lh.googleusercontent.com/_k3nneigLbNr4YNZpTH1Nlr47_ILtELXoS7lrc4ACoTt4tm_Vj5N4dksefSih_gDPMI=w640-h360",
+      "https://play-lh.googleusercontent.com/HglvP1Hpmg_KAOTUkstOPBj1IxfmICmaJ7kUkhTpdqVovaCTRhtgQicJOI7G1sfRydA=w640-h360",
+      "https://play-lh.googleusercontent.com/vOZhaGnjbP2sjdHY5Df5h43xShdyJMQzdVnWmQyz_-45EAxVYTingEuENMD3ZxQQia6U=w640-h360",
+      "https://play-lh.googleusercontent.com/ZcIPDBHj0qr4B8ZD6ruk6qLzEkxrU2ofBrKbjBd3JhmPrnJ97ifGr5WIBYA-nr6bTQ=w640-h360",
+      "https://play-lh.googleusercontent.com/TaEtgodqr_bFCk7wa9h5fzxFBdprLI-p2jtMUh7nPUsh0dhXlHFB0F7ENFXiiFnapA=w640-h360"
+    ]
+  },
+  {
     "play": "com.poncle.vampiresurvivors",
     "taptap": 262197,
     "rating": 4.4,
