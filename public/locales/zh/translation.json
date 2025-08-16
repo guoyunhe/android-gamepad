@@ -2,6 +2,6 @@
   "Games": "游戏",
   "Controllers": "手柄",
   "Download APK": "下载 APK",
-  "Android Games Support Game Controllers": "支持手柄的安卓游戏",
+  "{{count}} Android Games Support Game Controllers_other": "{{count}} 款支持手柄的安卓游戏",
   "Search": "搜索"
 }

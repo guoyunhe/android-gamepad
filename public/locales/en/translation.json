@@ -2,6 +2,7 @@
   "Games": "Games",
   "Controllers": "Controllers",
   "Download APK": "Download APK",
-  "Android Games Support Game Controllers": "Android Games Support Game Controllers",
+  "{{count}} Android Games Support Game Controllers_one": "{{count}} Android Games Support Game Controllers",
+  "{{count}} Android Games Support Game Controllers_other": "{{count}} Android Games Support Game Controllers",
   "Search": "Search"
 }

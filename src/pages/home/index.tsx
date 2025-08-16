@@ -56,7 +56,7 @@ export default function HomePage() {
           }}
         />
         <Typography variant="h1" mb={4} align="center">
-          {t('Android Games Support Game Controllers')}
+          {t('{{count}} Android Games Support Game Controllers', { count: data.length || 0 })}
         </Typography>
         <Input
           endAdornment={<SearchIcon />}
