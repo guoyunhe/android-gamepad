@@ -7,9 +7,7 @@
       "zh": "Eden Switch 模拟器"
     },
     "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": [
-      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
-    ]
+    "screenshots": ["https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"]
   },
   {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
@@ -63,6 +61,23 @@
       "https://play-lh.googleusercontent.com/8pemHLBSoZktSUBfBgPibEs4xKQcNjHnGxca9bouHsWJVwGfbyQr_miSsK52W93rLqw=w640-h360",
       "https://play-lh.googleusercontent.com/HGrKySogks-jxXqxhHcyAp-vNOc3wdcPC3EV67YcQaC8NnnEhyaKwJ44ZkAQspXpAA=w640-h360",
       "https://play-lh.googleusercontent.com/V2ViLTwMs2dKq6B_sv0bv7voHAHYFLU-aKGp5xU8Avl1VY7xqAFK0hU0oUqdkSWoGbjc=w640-h360"
+    ]
+  },
+  {
+    "play": "com.bethsoft.DOOMII",
+    "rating": 4.4,
+    "name": {
+      "en": "DOOM II",
+      "zh": "毁灭战士 2"
+    },
+    "icon": "https://play-lh.googleusercontent.com/9j685djamoKNZwBGNZjkgkOSdgcoh6xrWsGiKq9vAdyapm9lTtDgWHhtW9y8leNXj-qT=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/lTk_xsGrZZYTdsXnItONUuXNZqzHAEV9GbldxnA6hNs_7mLClSd9P6p_LfkqpY9d8pg=w640-h360",
+      "https://play-lh.googleusercontent.com/gEinLBnXsBAWY4HEscWUJJ9b3pccLx3vBXLI66fAwr0KmAq-koAgSrHvey6awpjIrQ=w640-h360",
+      "https://play-lh.googleusercontent.com/la1Z7vqNnfqj8Pgxd25dlA-n1NTLEizTTQDfjHCshvZwqpnxz0X0mZSgxVbGtjt1xXu5=w640-h360",
+      "https://play-lh.googleusercontent.com/-Pg6TT5VQILlMqiK1-pL8MKoNI4c3578TRRAW9IzaSq_WIhuPFgVWZZ9rwWvqKY143M=w640-h360",
+      "https://play-lh.googleusercontent.com/zrRGbwNW2n_FvKqOS8Y0UqQ3WShYwDDAvsp3iDruQgvW4RzI06yRaaoGE2sn3AAOWPIM=w640-h360",
+      "https://play-lh.googleusercontent.com/H_HwEabumX9LWe0yYBaVV-4co1oXTP6OWXAZ6v6kurDePqeBL9IqH3wuZoUMdtOPlg=w640-h360"
     ]
   },
   {
