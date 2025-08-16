@@ -117,6 +117,16 @@
     "screenshots": ["u2p2z-Adcze8pK5OQsZ6z1MkTtZlzWuTovehQRuM3--BGxaov_lnDxSG_69HnBtLy5A"]
   },
   {
+    "play": "jp.konami.epjCastlevania2",
+    "rating": 4,
+    "name": {
+      "en": "Castlevania: SotN",
+      "zh": "恶魔城X: 月下夜想曲"
+    },
+    "icon": "7AR0U47NlrF1kq_AzUFkbysIOLsC1280eNWoPkPvQFBDYdzaijYHsc8pNnM0rxnVCiU",
+    "screenshots": ["TzI8agPe50rbLTrofBf1Gp82ntpsrMuUmMo3aLmS0z2re0G5YzqcR5dh-c8NmjzNpxc"]
+  },
+  {
     "play": "net.froemling.bombsquad",
     "rating": 4.5,
     "name": {
