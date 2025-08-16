@@ -179,6 +179,23 @@
     ]
   },
   {
+    "play": "com.hg.wreckfest",
+    "rating": 4,
+    "name": {
+      "en": "Wreckfest",
+      "zh": "Wreckfest"
+    },
+    "icon": "https://play-lh.googleusercontent.com/lV-Dvy-N8cAdzFDYFZJh4shHtwAx-NuwcDP20TqyA4k8GDbAiOyxeSCbDaoLNHBwdRw=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/O9En_aGKdfZCY49bhX61-ftFezK0sWeccuttD8DZczHMB10cDdo9WtJIVc_NX8Gv8kiF=w640-h360",
+      "https://play-lh.googleusercontent.com/MW_MFxmUE9Rwu7F2gkcuxnsrlmek3FG_3zNFAYTNMpviGGV3BdISFdMmyhJV2M6LE4JN=w640-h360",
+      "https://play-lh.googleusercontent.com/twDQcBjfWImXNBED9LnOM2BUwFoIS8iTJLDKdlEClNO5XiZ4-6QKDZvsaEsB0i-gQlw=w640-h360",
+      "https://play-lh.googleusercontent.com/DT7NBlpw-YS-ad2itroyVk7Zt0PTlwC6Z_6CBK4v2iWJBw3ZtsQJNxrm_1v6lCLvtUVd=w640-h360",
+      "https://play-lh.googleusercontent.com/jB_Yuc6_M-rvEMCm9OYXwPNl1d85naKzukKiadwQ-XrGsNd1tXau2tk5CcFqXjFWwAo=w640-h360",
+      "https://play-lh.googleusercontent.com/h31OY0IiJJ_3daHfCWlAVNleUQf0ewDKxyTI80tRfhN77lWUtQgWAYBXzg5UId-UTCI=w640-h360"
+    ]
+  },
+  {
     "play": "com.madfingergames.unkilled",
     "rating": 4.3,
     "name": {
