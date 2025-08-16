@@ -7,7 +7,9 @@
       "zh": "Eden Switch 模拟器"
     },
     "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": ["https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"]
+    "screenshots": [
+      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
+    ]
   },
   {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
@@ -174,6 +176,18 @@
     "icon": "https://play-lh.googleusercontent.com/uAk4gGgp6TdC4EQ-YoMkLGHNsW2g72n4mpChvD8llYhVHeWLblXN7o7pzvQxRaHxvTFC=s96",
     "screenshots": [
       "https://play-lh.googleusercontent.com/q8GOLlegWVGh4WiPV__vZzgvBHgUzUEY-U5Tt8cUDWDttI1bBE2GBqMr7iWDpBh7999n=w640-h360"
+    ]
+  },
+  {
+    "play": "com.madfingergames.unkilled",
+    "rating": 4.3,
+    "name": {
+      "en": "UNKILLED: FPS Zombie Games",
+      "zh": "全境危机：都市生存射击游戏"
+    },
+    "icon": "https://play-lh.googleusercontent.com/0CtIHA18zPTwALuro5uDREb78QDHrU1rHTksgFDRAgXDJN2b4yQ_3OD1rmXctWPrs68=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/moEM_C0LXWBdutnLDRdnWYVlfpq9Fjz5SSjyV6kwdBKjqgg757HfbaHZCevR8R9ssdo=w640-h360"
     ]
   },
   {
