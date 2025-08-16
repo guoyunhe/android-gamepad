@@ -210,5 +210,17 @@
     "screenshots": [
       "https://play-lh.googleusercontent.com/_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8=w640-h360"
     ]
+  },
+  {
+    "download": "https://eden-emu.dev/download",
+    "rating": 4,
+    "name": {
+      "en": "Eden Switch Emulator",
+      "zh": "Eden Switch 模拟器"
+    },
+    "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
+    "screenshots": [
+      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
+    ]
   }
 ]

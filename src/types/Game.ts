@@ -3,6 +3,7 @@ export default interface Game {
   fdroid?: string;
   taptap?: number;
   xiaomi?: string;
+  download?: string;
   name: Record<string, string>;
   rating: number;
   price: number;

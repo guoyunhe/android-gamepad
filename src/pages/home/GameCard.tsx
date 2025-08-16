@@ -1,4 +1,5 @@
 import Game from '#types/Game';
+import { Download as DownloadIcon } from '@mui/icons-material';
 import {
   Avatar,
   Box,
@@ -71,6 +72,11 @@ export default function GameCard({ game }: GameCardProps) {
         {game.xiaomi && (
           <IconButton href={`https://app.mi.com/details?id=${game.xiaomi}`} title="小米应用商店">
             <img src="/xiaomi.svg" width={24} height={24} style={{ borderRadius: 4 }} />
+          </IconButton>
+        )}
+        {game.download && (
+          <IconButton href={game.download} title="Download">
+            <DownloadIcon />
           </IconButton>
         )}
       </CardActions>
