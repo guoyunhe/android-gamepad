@@ -7,7 +7,9 @@
       "zh": "Eden Switch 模拟器"
     },
     "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": ["https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"]
+    "screenshots": [
+      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
+    ]
   },
   {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
@@ -227,6 +229,18 @@
     "icon": "https://play-lh.googleusercontent.com/bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s=s96",
     "screenshots": [
       "https://play-lh.googleusercontent.com/u72T75nAC9B4xEqvhCCRZOqvWEBfcvQsGz37cqPwBFjysKikIh0wdHyCk7FT9U-2lvlL=w640-h360"
+    ]
+  },
+  {
+    "play": "com.rockstar.maxpayne",
+    "rating": 3.6,
+    "name": {
+      "en": "Max Payne Mobile",
+      "zh": "马克思佩恩手游"
+    },
+    "icon": "https://play-lh.googleusercontent.com/CM5rJdP9S3gQk_5Td3Er_HfQIAUdnO0lwxJDZgYzKfqZrAWa0xvZcXwOMdsB8cmxJYM=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8cGd8vtrN5o8lScPf1UjC7_GT4nwMVwUrnbbDsLgMBxEZirGSTrlo6BkSyFocSFYT74=w640-h360"
     ]
   },
   {
