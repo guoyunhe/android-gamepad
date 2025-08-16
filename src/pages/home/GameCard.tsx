@@ -21,13 +21,7 @@ export default function GameCard({ game }: GameCardProps) {
   return (
     <Card key={game.play || game.taptap} sx={{ width: 400 }}>
       <CardHeader
-        avatar={
-          <Avatar
-            variant="rounded"
-            src={`https://play-lh.googleusercontent.com/${game.icon}=s96`}
-            sx={{ width: 48, height: 48 }}
-          />
-        }
+        avatar={<Avatar variant="rounded" src={game.icon} sx={{ width: 48, height: 48 }} />}
         title={game.name[i18n.language]}
         subheader={
           <Box sx={{ display: 'flex', alignItems: 'center' }}>
@@ -47,7 +41,7 @@ export default function GameCard({ game }: GameCardProps) {
         component="img"
         width={640}
         height={360}
-        image={`https://play-lh.googleusercontent.com/${game.screenshots[0]}=w640-h360`}
+        image={game.screenshots[0]}
         sx={{
           width: '100%',
           height: '225px',

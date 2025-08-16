@@ -6,8 +6,10 @@
       "en": "Brawlhalla",
       "zh": "英灵乱战"
     },
-    "icon": "np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t",
-    "screenshots": ["tUQjDosKn5l7XE46EczOT33TVTDbL2YgDdl3mTgpy3EzO0Eg8PxUkGppU1Pu5jhHcIk"]
+    "icon": "https://play-lh.googleusercontent.com/np6vjq7-1UEN0rhoO2D5KFWD_u_2ve_od6YzlAUnq2Ty_lR6HBGB-Qsu_E5jS3VI-m5t=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tUQjDosKn5l7XE46EczOT33TVTDbL2YgDdl3mTgpy3EzO0Eg8PxUkGppU1Pu5jhHcIk=w640-h360"
+    ]
   },
   {
     "play": "com.actgames.bbee.gl",
@@ -17,8 +19,10 @@
       "en": "BlazBlue: Entropy Effect",
       "zh": "苍翼：混沌效应"
     },
-    "icon": "jF7VOr8fr-vknCT4z1RdHCRWhPoIHMgWfqpXg3HlASD2AT6iVqfpj0qQsDoGtnay594",
-    "screenshots": ["r1JO-Cxnm6tTIzrUN1aLnNl2zxThHYD8x3yX-g31gLEu4LhSy9sWZl7UvDydbBaaCw"]
+    "icon": "https://play-lh.googleusercontent.com/jF7VOr8fr-vknCT4z1RdHCRWhPoIHMgWfqpXg3HlASD2AT6iVqfpj0qQsDoGtnay594=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/r1JO-Cxnm6tTIzrUN1aLnNl2zxThHYD8x3yX-g31gLEu4LhSy9sWZl7UvDydbBaaCw=w640-h360"
+    ]
   },
   {
     "play": "com.activision.callofduty.shooter",
@@ -27,8 +31,10 @@
       "en": "Call of Duty: Mobile",
       "zh": "使命召唤手游"
     },
-    "icon": "GBaWlaevq4CA0xN13QYlIseEmL2inzVEx9z3HBBJPNbIQmlZLgA9lj-pfbY4h3XVa5Xvuns3ORaWSEvk8IbSDyQ",
-    "screenshots": ["6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w"]
+    "icon": "https://play-lh.googleusercontent.com/GBaWlaevq4CA0xN13QYlIseEmL2inzVEx9z3HBBJPNbIQmlZLgA9lj-pfbY4h3XVa5Xvuns3ORaWSEvk8IbSDyQ=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w=w640-h360"
+    ]
   },
   {
     "play": "com.blizzard.diablo.immortal",
@@ -39,8 +45,10 @@
       "en": "Diablo Immortal",
       "zh": "暗黑破坏神：不朽"
     },
-    "icon": "jWHGe_mcP8G9JxeF-GlK90K7vrf25xmpjJxjODSBCAngd11iiR6rn2Y8mPRenNtYRmA",
-    "screenshots": ["voGhPpHpOdeMQI0A3-0kPzSkfro5-l3kW0gHtYx_UVb7SZ2bYOkh6ioz7U59o_N7LCU"]
+    "icon": "https://play-lh.googleusercontent.com/jWHGe_mcP8G9JxeF-GlK90K7vrf25xmpjJxjODSBCAngd11iiR6rn2Y8mPRenNtYRmA=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/voGhPpHpOdeMQI0A3-0kPzSkfro5-l3kW0gHtYx_UVb7SZ2bYOkh6ioz7U59o_N7LCU=w640-h360"
+    ]
   },
   {
     "play": "com.feralinteractive.alienisolation_android",
@@ -49,8 +57,10 @@
       "en": "Alien: Isolation",
       "zh": "异形：隔离"
     },
-    "icon": "WSWIHB-QdvM9MgaVHf-9BWVIu7kapJOJTU8RqaRdD2157ffEEoKZYhQPwQgJgEQpUtM",
-    "screenshots": ["GF6bCTw7Wz3vF5_jKR740YQNIr4CF5EXkvXnPRkEEgPbANZtSNAt025xDgMKB1BnjIY"]
+    "icon": "https://play-lh.googleusercontent.com/WSWIHB-QdvM9MgaVHf-9BWVIu7kapJOJTU8RqaRdD2157ffEEoKZYhQPwQgJgEQpUtM=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/GF6bCTw7Wz3vF5_jKR740YQNIr4CF5EXkvXnPRkEEgPbANZtSNAt025xDgMKB1BnjIY=w640-h360"
+    ]
   },
   {
     "play": "com.flycast.emulator",
@@ -59,8 +69,10 @@
       "en": "Flycast Emulator",
       "zh": "Flycast 模拟器"
     },
-    "icon": "uAk4gGgp6TdC4EQ-YoMkLGHNsW2g72n4mpChvD8llYhVHeWLblXN7o7pzvQxRaHxvTFC",
-    "screenshots": ["q8GOLlegWVGh4WiPV__vZzgvBHgUzUEY-U5Tt8cUDWDttI1bBE2GBqMr7iWDpBh7999n"]
+    "icon": "https://play-lh.googleusercontent.com/uAk4gGgp6TdC4EQ-YoMkLGHNsW2g72n4mpChvD8llYhVHeWLblXN7o7pzvQxRaHxvTFC=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/q8GOLlegWVGh4WiPV__vZzgvBHgUzUEY-U5Tt8cUDWDttI1bBE2GBqMr7iWDpBh7999n=w640-h360"
+    ]
   },
   {
     "play": "com.mojang.minecraftpe",
@@ -69,8 +81,10 @@
       "en": "Minecraft",
       "zh": "我的世界"
     },
-    "icon": "27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w",
-    "screenshots": ["YgZ-1CKekDn9VwNeqqltN3deQxkqfLn4ku3PSkzdsGejMZ1kTzRkRzNMLepFZFpjXuU"]
+    "icon": "https://play-lh.googleusercontent.com/27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YgZ-1CKekDn9VwNeqqltN3deQxkqfLn4ku3PSkzdsGejMZ1kTzRkRzNMLepFZFpjXuU=w640-h360"
+    ]
   },
   {
     "play": "com.playdigious.deadcells.mobile",
@@ -81,8 +95,10 @@
       "en": "Dead Cells",
       "zh": "重生细胞"
     },
-    "icon": "Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw",
-    "screenshots": ["af9mFH4XinZ7f6dx-Ygm9molYPAcMHhhZyQ0udDBd9S9-44v_VBdeA0rjSlQyJRpQg"]
+    "icon": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/af9mFH4XinZ7f6dx-Ygm9molYPAcMHhhZyQ0udDBd9S9-44v_VBdeA0rjSlQyJRpQg=w640-h360"
+    ]
   },
   {
     "play": "com.poncle.vampiresurvivors",
@@ -92,8 +108,10 @@
       "en": "Vampire Survivors",
       "zh": "吸血鬼幸存者"
     },
-    "icon": "R1dShZj1HNBQzrHhsAD9_F8BRc2FU-nlDMU7OIAIwnMge04QWvNZR-clnXnEd_v30Qo",
-    "screenshots": ["XQX__SEtkhRK4qYXXfPB7FaDk5gut_OPRqCXaoGuWs0yd89jiNy7-9QbiaLGRcmLnlE"]
+    "icon": "https://play-lh.googleusercontent.com/R1dShZj1HNBQzrHhsAD9_F8BRc2FU-nlDMU7OIAIwnMge04QWvNZR-clnXnEd_v30Qo=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/XQX__SEtkhRK4qYXXfPB7FaDk5gut_OPRqCXaoGuWs0yd89jiNy7-9QbiaLGRcmLnlE=w640-h360"
+    ]
   },
   {
     "play": "com.retroarch",
@@ -102,8 +120,10 @@
       "en": "RetroArch",
       "zh": "RetroArch/全能模拟器"
     },
-    "icon": "bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s",
-    "screenshots": ["u72T75nAC9B4xEqvhCCRZOqvWEBfcvQsGz37cqPwBFjysKikIh0wdHyCk7FT9U-2lvlL"]
+    "icon": "https://play-lh.googleusercontent.com/bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/u72T75nAC9B4xEqvhCCRZOqvWEBfcvQsGz37cqPwBFjysKikIh0wdHyCk7FT9U-2lvlL=w640-h360"
+    ]
   },
   {
     "play": "com.xd.TLglobal",
@@ -113,8 +133,10 @@
       "en": "Torchlight: Infinite",
       "zh": "火炬之光：无限"
     },
-    "icon": "o3elC3AIlhsYnuY2cQwKzWjDAH2mcDGxx7jx7aFCRSpW7lpkZfDqTtSXrz0O910G33U",
-    "screenshots": ["u2p2z-Adcze8pK5OQsZ6z1MkTtZlzWuTovehQRuM3--BGxaov_lnDxSG_69HnBtLy5A"]
+    "icon": "https://play-lh.googleusercontent.com/o3elC3AIlhsYnuY2cQwKzWjDAH2mcDGxx7jx7aFCRSpW7lpkZfDqTtSXrz0O910G33U=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/u2p2z-Adcze8pK5OQsZ6z1MkTtZlzWuTovehQRuM3--BGxaov_lnDxSG_69HnBtLy5A=w640-h360"
+    ]
   },
   {
     "play": "jp.konami.epjCastlevania2",
@@ -123,8 +145,10 @@
       "en": "Castlevania: SotN",
       "zh": "恶魔城X: 月下夜想曲"
     },
-    "icon": "7AR0U47NlrF1kq_AzUFkbysIOLsC1280eNWoPkPvQFBDYdzaijYHsc8pNnM0rxnVCiU",
-    "screenshots": ["TzI8agPe50rbLTrofBf1Gp82ntpsrMuUmMo3aLmS0z2re0G5YzqcR5dh-c8NmjzNpxc"]
+    "icon": "https://play-lh.googleusercontent.com/7AR0U47NlrF1kq_AzUFkbysIOLsC1280eNWoPkPvQFBDYdzaijYHsc8pNnM0rxnVCiU=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/TzI8agPe50rbLTrofBf1Gp82ntpsrMuUmMo3aLmS0z2re0G5YzqcR5dh-c8NmjzNpxc=w640-h360"
+    ]
   },
   {
     "play": "net.froemling.bombsquad",
@@ -133,8 +157,10 @@
       "en": "BombSquad",
       "zh": "炸弹小分队"
     },
-    "icon": "CachTgIoVy7oEtLlgeo8bPcJfaUHRopRYUOH-DYyeiRsQQaqg8gjpp1qGgOs3wiC2IQ",
-    "screenshots": ["NtRc0FQ8B7y0Bz_XVnTgRm1M0lvsZp9trofWe7cW814_IEptkhhKMQO2D5rcyz3btOBk"]
+    "icon": "https://play-lh.googleusercontent.com/CachTgIoVy7oEtLlgeo8bPcJfaUHRopRYUOH-DYyeiRsQQaqg8gjpp1qGgOs3wiC2IQ=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/NtRc0FQ8B7y0Bz_XVnTgRm1M0lvsZp9trofWe7cW814_IEptkhhKMQO2D5rcyz3btOBk=w640-h360"
+    ]
   },
   {
     "play": "net.minetest.minetest",
@@ -144,8 +170,10 @@
       "en": "Luanti/Minetest",
       "zh": "Luanti/Minetest"
     },
-    "icon": "UBDUHmZDKcSaPJVq02ClXjmE-oXpPVZAbAgjKqZZWI4SRAiioWR5ZVfAgRF5wbTmhRM",
-    "screenshots": ["Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY"]
+    "icon": "https://play-lh.googleusercontent.com/UBDUHmZDKcSaPJVq02ClXjmE-oXpPVZAbAgjKqZZWI4SRAiioWR5ZVfAgRF5wbTmhRM=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Jp5qsNG_Sn30bcirkf3BJlJ2LxSz-WvFQ9EvQ5AtnIGGq2PiI08P7ZCJgJRdYbi4WBY=w640-h360"
+    ]
   },
   {
     "play": "org.dolphinemu.dolphinemu",
@@ -154,8 +182,10 @@
       "en": "Dolphin Emulator (NGC/Wii)",
       "zh": "Dolphin 模拟器 (NGC/Wii)"
     },
-    "icon": "-09r-5hc-kmCEVcEMydcgpiaJjdbKxdzdB7D1t3V27uF5UVRvuspY7tEovedw67beO8",
-    "screenshots": ["Q4BKZMo23U5c9b33KbUfnkD68nzdbHuAAcNqZ-UhJfrbg_-2DHfvwZKpcXhHbeW0lg"]
+    "icon": "https://play-lh.googleusercontent.com/-09r-5hc-kmCEVcEMydcgpiaJjdbKxdzdB7D1t3V27uF5UVRvuspY7tEovedw67beO8=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Q4BKZMo23U5c9b33KbUfnkD68nzdbHuAAcNqZ-UhJfrbg_-2DHfvwZKpcXhHbeW0lg=w640-h360"
+    ]
   },
   {
     "play": "org.ppsspp.ppsspp",
@@ -164,8 +194,10 @@
       "en": "PPSSPP - PSP Emulator",
       "zh": "PPSSPP - PSP 模拟器"
     },
-    "icon": "DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0",
-    "screenshots": ["HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo"]
+    "icon": "https://play-lh.googleusercontent.com/DFXgljhAFAOdtTBU3BHspS6Wtzl3wbA1ubGw56VRrYScraEN-rq_CLse6qVXtkAclD0=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/HAp1cxykBnmG9b_w2NTFv_z_zgxpQB0pGYQw74fg6aY4egDlW-MQ_Rv5fCcMhgN5zpo=w640-h360"
+    ]
   },
   {
     "play": "org.supertuxkart.stk",
@@ -174,7 +206,9 @@
       "en": "SuperTuxKart",
       "zh": "企鹅卡丁车"
     },
-    "icon": "0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67",
-    "screenshots": ["_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8"]
+    "icon": "https://play-lh.googleusercontent.com/0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8=w640-h360"
+    ]
   }
 ]
