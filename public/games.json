@@ -7,7 +7,9 @@
       "zh": "Eden Switch 模拟器"
     },
     "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": ["https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"]
+    "screenshots": [
+      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
+    ]
   },
   {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
@@ -256,6 +258,23 @@
     "icon": "https://play-lh.googleusercontent.com/CM5rJdP9S3gQk_5Td3Er_HfQIAUdnO0lwxJDZgYzKfqZrAWa0xvZcXwOMdsB8cmxJYM=s96",
     "screenshots": [
       "https://play-lh.googleusercontent.com/8cGd8vtrN5o8lScPf1UjC7_GT4nwMVwUrnbbDsLgMBxEZirGSTrlo6BkSyFocSFYT74=w640-h360"
+    ]
+  },
+  {
+    "play": "com.tgc.sky.android",
+    "rating": 4.4,
+    "name": {
+      "en": "Sky: Children of the Light",
+      "zh": "Sky光·遇"
+    },
+    "icon": "https://play-lh.googleusercontent.com/Y3EGSP2XekSNQTFcCnhzHaUrMt94ujawgImieIPT0BBcDvd5Bh6BfaFcrlGpenIzhZs=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jDjTGJTGen9CClH8w3EAo6c3SehgGCEqSSovBCeMy-HwL2u7u5LyjUc4lAyfp_BtEGM=w640-h360",
+      "https://play-lh.googleusercontent.com/-m6PBQFSq3JNqUsXybFRATiGCeKfcIroKdr0NX5neG0hJw-kIzq_vC4u3_kG7LGmxg=w640-h360",
+      "https://play-lh.googleusercontent.com/53Gt6JSEgimzjBw2_yOgFnftR5tDAcEXjpbAeVGzMJMq1s3whv-HF8TSu14ozeFjifc=w640-h360",
+      "https://play-lh.googleusercontent.com/m9ghiMKZmUwcROE9tqNVb_ZxlEoXkWY2AohSVz0P70YSgt_mQpYVj4Vgv3UXvDpO_0M=w640-h360",
+      "https://play-lh.googleusercontent.com/ei9wKL55GgFOdpTz0cLqvOJnuVbV_1VsPdzv2wRUS6ZYAA6ZXR8KmZgUs8KgbgHSvLs=w640-h360",
+      "https://play-lh.googleusercontent.com/MPxzmB9m_ZTa7KfjyXRMpQQD3YXp5rsOfoeCR9wJALX4e5T47KvXtagXjM2vlWeJL94=w640-h360"
     ]
   },
   {
