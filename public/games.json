@@ -107,6 +107,18 @@
     ]
   },
   {
+    "play": "com.feralinteractive.gridas",
+    "rating": 4.5,
+    "name": {
+      "en": "GRID Autosport",
+      "zh": "GRID Autosport"
+    },
+    "icon": "https://play-lh.googleusercontent.com/stwUFdYIiKFCOU1uOCPQK5mRxr2fnZraDbM0ra32_-QxhudPDBGaehpzz_o9xLQl7A_v=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/HpAF2Oi9bMJdEBCcSp6vsy0e5eOeW0U1ne1U_sq1DYoC4KkcYJmcj2JyP38cljWwRQ=w640-h360"
+    ]
+  },
+  {
     "play": "com.flycast.emulator",
     "rating": 4.4,
     "name": {
