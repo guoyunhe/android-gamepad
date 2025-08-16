@@ -97,6 +97,23 @@
     ]
   },
   {
+    "play": "com.chucklefish.stardewvalley",
+    "rating": 4.3,
+    "name": {
+      "en": "Stardew Valley",
+      "zh": "星露谷物语"
+    },
+    "icon": "https://play-lh.googleusercontent.com/He92papZcOmkgTi1sLHXQQb02aoyRtJ8ml96njM_cSAcpHhILvxMjhLix4mYEIKXPq4=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/9uy1ZwSwrhXDrIXQMySQgOgoMU8T3oSjf85T68_HDLtTuc6iqDPSYVZ5D6Vysg-D9DY=w640-h360",
+      "https://play-lh.googleusercontent.com/cYewDYY9nudl75kNKpL1aiDO_ZseAVJnuim2FweDBHheEWzJpfsap-LaXEsX2rA-zg=w640-h360",
+      "https://play-lh.googleusercontent.com/K3iTDHZUEWPARrou2r_30gaXIoKXZfirTkNpY2I6YvGGoNfPLhXDIvJGd1cGQ-9UxA=w640-h360",
+      "https://play-lh.googleusercontent.com/pes5bS_toMehtprdAAAExCblDzsRHUTY-ktQ2fneN1lZPYc-P7VzS-8QcfXmBwd9CeI=w640-h360",
+      "https://play-lh.googleusercontent.com/LyHFCSzFwBajMuKmZ95-guNF1eNqHz9c6B3G5s8IgfwDHNCvZacNsMSMn-SFTS8pQN8=w640-h360",
+      "https://play-lh.googleusercontent.com/3657QN94eYalXsYbduUGDQ_iuEtyg26YjosXxLlkcm1v2JfLUIOjxm8l5QsqeKBRu1c3=w640-h360"
+    ]
+  },
+  {
     "play": "com.direlight.grimvalor",
     "rating": 4.7,
     "name": {
