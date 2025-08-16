@@ -5,7 +5,7 @@ const gamesFile = './public/games.json';
 
 const games: Game[] = JSON.parse(await readFile(gamesFile, 'utf-8'));
 
-games.sort((a, b) => a.play.localeCompare(b.play));
+games.sort((a, b) => (a.play || '').localeCompare(b.play || ''));
 
 function trimGooglePlayIcon(url: string) {
   if (url.startsWith('https://play-lh.googleusercontent.com/') && url.includes('=')) {

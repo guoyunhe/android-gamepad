@@ -1,5 +1,17 @@
 [
   {
+    "download": "https://eden-emu.dev/download",
+    "rating": 4,
+    "name": {
+      "en": "Eden Switch Emulator",
+      "zh": "Eden Switch 模拟器"
+    },
+    "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
+    "screenshots": [
+      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
+    ]
+  },
+  {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
     "rating": 4.3,
     "name": {
@@ -114,6 +126,18 @@
     ]
   },
   {
+    "play": "com.rawfury.longhathouse.Dandara",
+    "rating": 4.4,
+    "name": {
+      "en": "Dandara Trials of Fear Edition",
+      "zh": "丹达拉:恐惧试炼"
+    },
+    "icon": "https://play-lh.googleusercontent.com/VWlsikPKcHeX83f_aGX89BhBmff5tYqpvXTeHF-aYwuimOWHvwEG0HoE7luj9qEXIMM=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/BFAPkBsNX9OZBMN8n4CT8GUiY3Q9vbY3y7Ba9EKsDsHD0eE7Oi8WerYMtRMeE7CnwrQ3=w640-h360"
+    ]
+  },
+  {
     "play": "com.retroarch",
     "rating": 3.6,
     "name": {
@@ -209,18 +233,6 @@
     "icon": "https://play-lh.googleusercontent.com/0_aUC6CaP57ZcJVjs-gydEz--WmtwuVFN5aXKwX0S0yyfSqNskeqn5I1tgdPo71uhI67=s96",
     "screenshots": [
       "https://play-lh.googleusercontent.com/_fbZTZt_P9X5BzmL6fAY93KluCHd_-5zM0jl_DVF5UeTZlyD8FtUC6-L4Rfb9ubenK8=w640-h360"
-    ]
-  },
-  {
-    "download": "https://eden-emu.dev/download",
-    "rating": 4,
-    "name": {
-      "en": "Eden Switch Emulator",
-      "zh": "Eden Switch 模拟器"
-    },
-    "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": [
-      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
     ]
   }
 ]
