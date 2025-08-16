@@ -7,9 +7,7 @@
       "zh": "Eden Switch 模拟器"
     },
     "icon": "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png",
-    "screenshots": [
-      "https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"
-    ]
+    "screenshots": ["https://eden-emu.dev/assets/eden_logo-pM75vuNx.png"]
   },
   {
     "play": "air.com.ubisoft.brawl.halla.platform.fighting.action.pvp",
@@ -46,6 +44,23 @@
     "icon": "https://play-lh.googleusercontent.com/GBaWlaevq4CA0xN13QYlIseEmL2inzVEx9z3HBBJPNbIQmlZLgA9lj-pfbY4h3XVa5Xvuns3ORaWSEvk8IbSDyQ=s96",
     "screenshots": [
       "https://play-lh.googleusercontent.com/6dQFFacFna7MJFkXnzislML1kd8twKlzfGwzjhAPAgL7k7fs0G5tnpn3kLmSE3qiN2w=w640-h360"
+    ]
+  },
+  {
+    "play": "com.and.games505.TerrariaPaid",
+    "rating": 4.6,
+    "name": {
+      "en": "Terraria",
+      "zh": "泰拉瑞亚"
+    },
+    "icon": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/O-Dr8ayJoCl8vELdlrdzTJqIupxNj-zsJq7-gu19A1nr3y-Zw4BkWhZhCNAjL-RaxQ=w640-h360",
+      "https://play-lh.googleusercontent.com/VAxJd3C0F94AfzNtwtE6SJK7bMgJDIRn8uSdFiGMRDrrmmdJuLKMUMUU5-WuD3eoZWM=w640-h360",
+      "https://play-lh.googleusercontent.com/-YZJfDVZ8u8ZCUYlDTBC0ueRYIO4z50VLdSDirr-kXIT6Qwrw7gmeqhpEvdSaCJqV-U=w640-h360",
+      "https://play-lh.googleusercontent.com/0l4UZcSUn8vtcfskPS9hN0Nb4gV14TNsUHLei56QxYax3VhqqzY9QuH5T9U18-SC7Gw=w640-h360",
+      "https://play-lh.googleusercontent.com/hsqG7bRnomjcA15KLDbP8u8IxxrkRzX9ifuYjtpjKS_I_CwsSMbFeNAsjzhAUy6VcK4=w640-h360",
+      "https://play-lh.googleusercontent.com/NpMliVjbQx0qLgZHLk0YHaxdjTaLEzxbCxoAOsGJbzYmsCN7ZFBSBWHDHF4tqCqsx84=w640-h360"
     ]
   },
   {
