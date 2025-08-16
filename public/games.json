@@ -182,6 +182,18 @@
     ]
   },
   {
+    "play": "com.tipsworks.android.pascalswager.google",
+    "rating": 3.2,
+    "name": {
+      "en": "Pascal Swager",
+      "zh": "帕斯卡契约"
+    },
+    "icon": "https://play-lh.googleusercontent.com/6yVPu4sFUAUg9bLBVxyuyM0NOazGRlWf9hTpkc0qU8A_chCmYzp5on1ajCUR-Sp9rro=s96",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/T5bmk0bR1TBiTOnWBXjQdUQqGtdKkbO97mKG0hS3z-VGAyKU6OElHe5rW0cJRxwfd_BX=w640-h360"
+    ]
+  },
+  {
     "play": "com.xd.TLglobal",
     "taptap": 172664,
     "rating": 4.5,
